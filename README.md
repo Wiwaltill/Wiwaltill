@@ -8,9 +8,11 @@
 
 📫 How to reach me:
 
-E-Mail: info@till-esser.de
+📧 E-Mail: info@till-esser.de
 
-Instagram: <a href="https://instagram.com/wiwaltill">@wiwaltill </a>
+📸 Instagram: <a href="https://instagram.com/wiwaltill">@wiwaltill</a>
+
+🌐 Website: <a href="https://till-esser.de">till-esser.de</a>
 
 <!--
 **Wiwaltill/Wiwaltill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
