@@ -2,7 +2,7 @@
 
 🇩🇪 I´m from Germany.
 
-🎓 I still go to school.
+🎓 I am doing an apprenticeship as a media designer in image and sound at WDR in Cologne.
 
 👀 I’m interested in light- & showtech, playing drums & filming.
 
